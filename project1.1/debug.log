@@ -1,0 +1,53 @@
+2025-01-30 14:42:51,633 - Using C:\Users\User\AppData\Local\Temp\tfhub_modules to cache modules.
+2025-01-30 14:42:51,675 - From C:\Users\User\AppData\Local\Programs\Python\Python39\lib\site-packages\tensorflow_hub\resolver.py:120: The name tf.gfile.MakeDirs is deprecated. Please use tf.io.gfile.makedirs instead.
+
+2025-01-30 14:42:51,677 - From C:\Users\User\AppData\Local\Programs\Python\Python39\lib\site-packages\tensorflow_hub\module_v2.py:126: The name tf.saved_model.load_v2 is deprecated. Please use tf.compat.v2.saved_model.load instead.
+
+2025-01-30 14:42:53,061 - Fingerprint not found. Saved model loading will continue.
+2025-01-30 14:42:53,061 - path_and_singleprint metric could not be logged. Saved model loading will continue.
+2025-01-30 14:42:53,062 - ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½Îµï¿½ ï¿½ï¿½...
+2025-01-30 14:42:53,089 - ï¿½ï¿½ ï¿½Îµï¿½ ï¿½Ï·ï¿½
+2025-01-30 14:42:53,097 - ï¿½ï¿½ï¿½ï¿½Í¸ï¿½ ï¿½ï¿½ï¿½ï¿½... (Ctrl+C ï¿½ï¿½ï¿½ï¿½)
+2025-01-30 14:43:33,238 - ï¿½ï¿½ï¿½ï¿½Í¸ï¿½ ï¿½ï¿½ï¿½ï¿½
+2025-01-30 15:53:26,307 - INFO - Using C:\Users\User\AppData\Local\Temp\tfhub_modules to cache modules.
+2025-01-30 15:53:26,371 - WARNING - From C:\Users\User\AppData\Local\Programs\Python\Python39\lib\site-packages\tensorflow_hub\resolver.py:120: The name tf.gfile.MakeDirs is deprecated. Please use tf.io.gfile.makedirs instead.
+
+2025-01-30 15:53:26,373 - WARNING - From C:\Users\User\AppData\Local\Programs\Python\Python39\lib\site-packages\tensorflow_hub\module_v2.py:126: The name tf.saved_model.load_v2 is deprecated. Please use tf.compat.v2.saved_model.load instead.
+
+2025-01-30 15:53:27,806 - INFO - Fingerprint not found. Saved model loading will continue.
+2025-01-30 15:53:27,806 - INFO - path_and_singleprint metric could not be logged. Saved model loading will continue.
+2025-01-30 15:53:27,807 - INFO - ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½Îµï¿½ ï¿½ï¿½...
+2025-01-30 15:53:27,836 - INFO - ï¿½ï¿½ ï¿½Îµï¿½ ï¿½Ï·ï¿½
+2025-01-30 15:53:27,859 - INFO - ï¿½ï¿½ï¿½ï¿½Í¸ï¿½ ï¿½ï¿½ï¿½ï¿½... (Ctrl+C ï¿½ï¿½ï¿½ï¿½)
+2025-01-30 15:53:34,685 - INFO - ï¿½ï¿½ï¿½ï¿½Í¸ï¿½ ï¿½ï¿½ï¿½ï¿½
+2025-01-30 19:59:29,909 - INFO - Using C:\Users\User\AppData\Local\Temp\tfhub_modules to cache modules.
+2025-01-30 19:59:29,978 - WARNING - From C:\Users\User\AppData\Local\Programs\Python\Python39\lib\site-packages\tensorflow_hub\resolver.py:120: The name tf.gfile.MakeDirs is deprecated. Please use tf.io.gfile.makedirs instead.
+
+2025-01-30 19:59:29,980 - WARNING - From C:\Users\User\AppData\Local\Programs\Python\Python39\lib\site-packages\tensorflow_hub\module_v2.py:126: The name tf.saved_model.load_v2 is deprecated. Please use tf.compat.v2.saved_model.load instead.
+
+2025-01-30 19:59:31,759 - INFO - Fingerprint not found. Saved model loading will continue.
+2025-01-30 19:59:31,760 - INFO - path_and_singleprint metric could not be logged. Saved model loading will continue.
+2025-01-30 19:59:31,760 - INFO - ±âÁ¸ ¸ðµ¨ ·Îµå Áß...
+2025-01-30 19:59:31,791 - INFO - ¸ðµ¨ ·Îµå ¿Ï·á
+2025-01-30 19:59:31,798 - INFO - ¸ð´ÏÅÍ¸µ ½ÃÀÛ... (Ctrl+C Á¾·á)
+2025-01-30 20:39:51,178 - INFO - Using C:\Users\User\AppData\Local\Temp\tfhub_modules to cache modules.
+2025-01-30 20:39:51,217 - WARNING - From C:\Users\User\AppData\Local\Programs\Python\Python39\lib\site-packages\tensorflow_hub\resolver.py:120: The name tf.gfile.MakeDirs is deprecated. Please use tf.io.gfile.makedirs instead.
+
+2025-01-30 20:39:51,218 - WARNING - From C:\Users\User\AppData\Local\Programs\Python\Python39\lib\site-packages\tensorflow_hub\module_v2.py:126: The name tf.saved_model.load_v2 is deprecated. Please use tf.compat.v2.saved_model.load instead.
+
+2025-01-30 20:39:52,641 - INFO - Fingerprint not found. Saved model loading will continue.
+2025-01-30 20:39:52,642 - INFO - path_and_singleprint metric could not be logged. Saved model loading will continue.
+2025-01-30 20:39:52,642 - INFO - ±âÁ¸ ¸ðµ¨ ·Îµå Áß...
+2025-01-30 20:39:52,665 - INFO - ¸ðµ¨ ·Îµå ¿Ï·á
+2025-01-30 20:39:52,672 - INFO - ¸ð´ÏÅÍ¸µ ½ÃÀÛ... (Ctrl+C Á¾·á)
+2025-01-30 20:40:00,677 - INFO - ¸ð´ÏÅÍ¸µ ÁßÁö
+2025-01-30 20:41:08,088 - INFO - Using C:\Users\User\AppData\Local\Temp\tfhub_modules to cache modules.
+2025-01-30 20:41:08,129 - WARNING - From C:\Users\User\AppData\Local\Programs\Python\Python39\lib\site-packages\tensorflow_hub\resolver.py:120: The name tf.gfile.MakeDirs is deprecated. Please use tf.io.gfile.makedirs instead.
+
+2025-01-30 20:41:08,131 - WARNING - From C:\Users\User\AppData\Local\Programs\Python\Python39\lib\site-packages\tensorflow_hub\module_v2.py:126: The name tf.saved_model.load_v2 is deprecated. Please use tf.compat.v2.saved_model.load instead.
+
+2025-01-30 20:41:09,566 - INFO - Fingerprint not found. Saved model loading will continue.
+2025-01-30 20:41:09,566 - INFO - path_and_singleprint metric could not be logged. Saved model loading will continue.
+2025-01-30 20:41:09,566 - INFO - ±âÁ¸ ¸ðµ¨ ·Îµå Áß...
+2025-01-30 20:41:09,590 - INFO - ¸ðµ¨ ·Îµå ¿Ï·á
+2025-01-30 20:41:09,595 - INFO - ¸ð´ÏÅÍ¸µ ½ÃÀÛ... (Ctrl+C Á¾·á)
